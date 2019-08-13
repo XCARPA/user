@@ -4,5 +4,27 @@
 <SqlTableName>outraclasse</SqlTableName>
 <Super>%Persistent</Super>
 <TimeCreated>65238,56023.127043</TimeCreated>
+
+<Property name="Nome">
+<Type>%String</Type>
+</Property>
+
+<Property name="End">
+<Type>%String</Type>
+</Property>
+
+<Storage name="Default">
+<Type>%Library.CacheStorage</Type>
+<DataLocation>^User.outraclasseuserD</DataLocation>
+<DefaultData>outraclasseuserDefaultData</DefaultData>
+<IdLocation>^User.outraclasseuserD</IdLocation>
+<IndexLocation>^User.outraclasseuserI</IndexLocation>
+<StreamLocation>^User.outraclasseuserS</StreamLocation>
+<Data name="outraclasseuserDefaultData">
+<Value name="1">
+<Value>%%CLASSNAME</Value>
+</Value>
+</Data>
+</Storage>
 </Class>
 </Export>
