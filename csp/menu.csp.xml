@@ -72,7 +72,11 @@ directory.
  		}
  	}
  
+<<<<<<< HEAD
  	/// now show files in a table with links
+=======
+ 	// now show files in a table with links
+>>>>>>> f04eab3943b3639d225cc083ce651b82e7a068cc
  	&html<<table cellpadding=5 border=1>>
  	&html<<tr><th align=left><B>Page</B></th><th align=left><B>Description</B></th><th align=left>&nbsp;</th></tr>>
  
