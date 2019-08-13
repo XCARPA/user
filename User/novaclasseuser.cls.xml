@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Class name="User.novaclasseuser">
+<SqlTableName>tabela1</SqlTableName>
+<Super>%Persistent,%Populate</Super>
+<TimeCreated>65238,55867.646888</TimeCreated>
+
+<Storage name="Default">
+<Type>%Library.CacheStorage</Type>
+<DataLocation>^User.novaclasseuserD</DataLocation>
+<DefaultData>novaclasseuserDefaultData</DefaultData>
+<IdLocation>^User.novaclasseuserD</IdLocation>
+<IndexLocation>^User.novaclasseuserI</IndexLocation>
+<StreamLocation>^User.novaclasseuserS</StreamLocation>
+<Data name="novaclasseuserDefaultData">
+<Structure>listnode</Structure>
+<Subscript/>
+<Value name="1">
+<Value>%%CLASSNAME</Value>
+</Value>
+</Data>
+</Storage>
+</Class>
+</Export>
