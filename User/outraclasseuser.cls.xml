@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+<Class name="User.outraclasseuser">
+<SqlTableName>outraclasse</SqlTableName>
+<Super>%Persistent</Super>
+<TimeCreated>65238,56023.127043</TimeCreated>
+</Class>
+</Export>
